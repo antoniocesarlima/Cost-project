@@ -1,0 +1,81 @@
+{
+  "projects": [
+    {
+      "name": "Tester atualizado",
+      "budget": "130",
+      "category": {
+        "id": "Desenvolvimento",
+        "name": "Desenvolvimento"
+      },
+      "cost": 30,
+      "services": [
+        {
+          "name": "Contratar estagiário",
+          "cost": "20",
+          "description": "contratação do estagiário responsável pelo café  ",
+          "id": "ba8804b1-5545-48d0-84f7-3d0ca8358897"
+        },
+        {
+          "name": "Importante",
+          "cost": "10",
+          "description": "comprar café",
+          "id": "c3afbbee-400d-4fcc-87d6-dc131733f22b"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Tester",
+      "budget": "122",
+      "category": {
+        "id": "infra",
+        "name": "infra"
+      },
+      "cost": 110,
+      "services": [
+        {
+          "name": "UX e Ui",
+          "cost": "100",
+          "description": "vai desenvolver a interface do app",
+          "id": "e3f90b0e-76ba-4df9-8ba3-548383747712"
+        },
+        {
+          "name": "Novo serviço ",
+          "cost": "10",
+          "description": "pagar o café",
+          "id": "719e3b30-a6e2-48f2-9a97-735a8630ce30"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "Tester",
+      "budget": "33",
+      "category": {
+        "id": "Desenvolvimento",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
